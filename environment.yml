@@ -1,0 +1,15 @@
+name: Windrose
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>3.6
+  - notebook>5.2
+  - jupyter_dashboards
+  - jupyter_dashboards_bundlers
+  - matplotlib
+  - windrose
+  - netCDF4
+  - wrf
+  - ipywidgets=7
+  - numpy
