@@ -13,3 +13,5 @@ dependencies:
   - wrf-python
   - ipywidgets=7
   - numpy
+  - IPython.display
+  - matplotlib.animation
